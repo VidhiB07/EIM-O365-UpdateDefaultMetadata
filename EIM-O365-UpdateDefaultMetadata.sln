@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EIM-O365-UpdateDefaultMetadata", "EIM-O365-UpdateDefaultMetadata\EIM-O365-UpdateDefaultMetadata.csproj", "{1319C220-5AB9-445D-9287-1A8CFC5B34DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EIM-O365-MetaDataTermSet", "EIM-O365-MetaDataTermSet\EIM-O365-MetaDataTermSet.csproj", "{49F92D1C-A675-4D4F-B384-50F0DA4F866F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1319C220-5AB9-445D-9287-1A8CFC5B34DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1319C220-5AB9-445D-9287-1A8CFC5B34DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1319C220-5AB9-445D-9287-1A8CFC5B34DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1319C220-5AB9-445D-9287-1A8CFC5B34DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49F92D1C-A675-4D4F-B384-50F0DA4F866F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49F92D1C-A675-4D4F-B384-50F0DA4F866F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49F92D1C-A675-4D4F-B384-50F0DA4F866F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49F92D1C-A675-4D4F-B384-50F0DA4F866F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {936994B2-781F-45F5-AF2B-E63109B3EF36}
+	EndGlobalSection
+EndGlobal
